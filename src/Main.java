@@ -4,5 +4,6 @@ public class Main {
         //this is done in new branch
 
         System.out.println("hi .");
+        System.out.println("New version in other branch");
     }
 }
